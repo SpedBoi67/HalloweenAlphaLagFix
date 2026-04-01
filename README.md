@@ -3,7 +3,7 @@ This repository contains files that lower graphics settings in the halloween alp
 
 ⚠️ WARNING: THIS PATCH ONLY WORKS FOR V0.8.12 ⚠️
 
-Instructions: Drag the downloaded assembly files to (WHATEVER NAME THE GAME FOLDER IS)/Neighbour_Data/Managed
+Instructions: drag the downloaded assembly files to (WHATEVER NAME THE GAME FOLDER IS)/Neighbour_Data/Managed
 
 <img width="1920" height="1080" alt="Screenshot from 2026-03-31 23-46-36" src="https://github.com/user-attachments/assets/ec208cd4-ba9c-4e17-96b3-77caf3927aed" />
 
